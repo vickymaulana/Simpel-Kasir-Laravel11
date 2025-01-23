@@ -14,8 +14,8 @@ Follow these steps to install and set up the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vickymaulana/SimpelKasir-Laravel11.git
-    cd SimpelKasir-Laravel11
+    git clone https://github.com/vickymaulana/Simpel-Kasir-Laravel11.git
+    cd Simpel-Kasir-Laravel11
     ```
 
 2. Install the dependencies:
